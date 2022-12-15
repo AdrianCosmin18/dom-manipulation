@@ -1,0 +1,31 @@
+.meci {
+    color: black;
+}
+
+#h4-23-nov {
+    color: burlywood;
+}
+
+.container-meciuri-23-nov {
+    background-color: chocolate;
+}
+
+.btn {
+    width: 10%;
+}
+
+.container-23-nov p:nth-child(odd) {
+    color: blueviolet;
+}
+
+.titlu-grupa-b {
+    color: black;
+}
+
+.grupa-b {
+    color: black;
+}
+
+table {
+    margin-top: 5%;
+}

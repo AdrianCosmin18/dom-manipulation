@@ -1,0 +1,35 @@
+.title {
+    color: #4a4a4a;
+}
+
+.subtitle {
+    color: #6e7a89;
+}
+
+.btn-hide {
+    color: #6bb8b2;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h3 {
+    color: #4f4e4f;
+}
+
+.description-input {
+    display: flex;
+    flex-direction: row;
+    height: 10%;
+    gap: 2%;
+}
+
+table {
+    margin-top: 5%;
+}
+
+.add-section {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    gap: 2%;
+}
